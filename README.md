@@ -23,6 +23,7 @@ The following is the setup that you WILL need to perform to configure all necess
 * Unix based OS
 
   * Install Ruby by using [rvm](https://rvm.io/rvm/install/)
+  * After installing rvm open up a shell and type in: rvm install 1.9.3
 
 * Windows based OS
 
