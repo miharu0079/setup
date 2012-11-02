@@ -39,10 +39,10 @@ The following is the setup that you WILL need to perform to configure all necess
   * Install brew using the following instructions:
   ![brew install](http://github.com/camug2012nov/setup/raw/master/images/brew_install.png)
   * After brew is successfully installed, install git by typing the following command in a terminal window:
-    * brew install git
+    * brew install git  
 
 * Unix
-  * Install git using the instructions outlined [here](http://git-scm.com/book/en/Getting-Started-Installing-Git)
+  * Install git using the instructions outlined [here](http://git-scm.com/book/en/Getting-Started-Installing-Git)  
 
 * Windows
   1. Install the latest version of Git for windows from [here](http://code.google.com/p/msysgit/downloads/detail?name=Git-1.7.11-preview20120710.exe&can=2&q=)
