@@ -38,7 +38,7 @@ The following is the setup that you WILL need to perform to configure all necess
 * OSX
   * Install brew using the following instructions:
   ![brew install](http://github.com/camug2012nov/setup/raw/master/images/brew_install.png)
-  * After brew is successfully installed, installed git by typing the following command in a terminal window:
+  * After brew is successfully installed, install git by typing the following command in a terminal window:
     * brew install git
 
 * Unix
